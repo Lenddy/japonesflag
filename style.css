@@ -1,0 +1,14 @@
+.t{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    border-radius: 500px;
+    margin-left:500px ;
+    margin-top: 250px;
+}
+.s{
+    width: 1500px;
+    height: 1000px;
+    border:1px solid black ;
+    background-color: white;
+}
